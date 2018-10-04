@@ -1,0 +1,27 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Clay's Blog"
+theme = "hugo-bootstrap"
+
+
+copyright = " "
+
+[languages.en]
+  languageName = "English"
+
+  # Replace the default footer message with a localized message
+  # copyright = "Hugo template made with ❤ by Xzya"
+
+  [[languages.en.menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+  [[languages.en.menu.main]]
+    url = "/activities/"
+    name = "Activities"
+    weight = 2
+
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
