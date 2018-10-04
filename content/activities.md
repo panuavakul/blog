@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Activities"
 ---
 
 ### Coding Time (Last 7 days)
