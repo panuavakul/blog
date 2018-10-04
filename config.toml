@@ -6,6 +6,9 @@ theme = "hugo-bootstrap"
 
 copyright = " "
 
+# Google analytics
+googleAnalytics = "UA-127004556-1"
+
 [languages.en]
   languageName = "English"
 
