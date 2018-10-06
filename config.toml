@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Clay's Blog"
 theme = "hugo-bootstrap"
 
+# Code Block
+pygmentsCodeFences = true
+pygmentsStyle = "monokai"
 
 copyright = " "
 
