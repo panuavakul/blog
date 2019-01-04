@@ -31,3 +31,7 @@ googleAnalytics = "UA-131750785-1"
 [taxonomies]
     tag = "tags"
     category = "categories"
+
+[params]
+  # Google AdSense
+  googleAdClient = "ca-pub-7613219603223395"
