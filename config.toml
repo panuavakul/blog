@@ -10,7 +10,7 @@ pygmentsStyle = "monokai"
 copyright = " "
 
 # Google analytics
-googleAnalytics = "UA-127004556-1"
+googleAnalytics = "UA-131750785-1"
 
 [languages.en]
   languageName = "English"
