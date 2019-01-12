@@ -34,7 +34,7 @@ I can do it the normal way by going to the setting and turn it on, but I might a
 
 
 
-```
+```bash
 
 sudo apt-get update
 
@@ -58,7 +58,7 @@ This is actually the more complicated part. Since we are dealing with Linux here
 
 
 
-```
+```bash
 
 sudo apt-get update
 
@@ -72,7 +72,7 @@ And it actually works!(Not really, so don't do the `apt-get install hugo`) I can
 
 
 
-```
+```bash
 
 hugo server --bind 0.0.0.0
 
@@ -84,7 +84,7 @@ and it works, I can access the site from the Chrome outside of Crostini. However
 
 
 
-```
+```bash
 
 hugo server -p 8080
 
@@ -96,7 +96,7 @@ and it just works. Note that you can actually mount it to other ports too as lis
 
 
 
-```
+```bash
 
 // TCP ports to statically forward to the container over SSH.
 
