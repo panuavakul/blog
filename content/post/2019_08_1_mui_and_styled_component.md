@@ -10,7 +10,7 @@ My current project use `styled-components` to style the component instead of the
 So what you can do is see the material ui document for the component that you want to override
 https://material-ui.com/api/circular-progress/
 
-![1](/static/images/2019_08_1_mui_and_styled_component_1.png)
+![1](/images/2019_08_1_mui_and_styled_component_1.png)
 
 Here, you can see that it say "Style sheet name" is `MuiCircularProgress` and below that are the keys that you can override.
 So in this case I want to override the `colorPrimary` and `colorSecondary` keys so what I have to do is just have to set the class
