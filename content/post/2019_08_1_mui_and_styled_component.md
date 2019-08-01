@@ -1,8 +1,8 @@
 ---
 title: "Using styled-components to customize Material UI Component"
 date: 2019-08-01T13:00:00+09:00
-tags: [react, redux]
-categories: [note, stupid_stuff]
+tags: [react, redux, material_ui]
+categories: [note, howto]
 ---
 
 My current project use `styled-components` to style the component instead of the default material ui theme stuffs. So I was looking for a correct way to override some part of the material ui style like for example, the `CircularProgress` 's color.
