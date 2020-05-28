@@ -22,10 +22,6 @@ googleAnalytics = "UA-131750785-1"
     url = "/"
     name = "Home"
     weight = 1
-  [[languages.en.menu.main]]
-    url = "/activities/"
-    name = "Activities"
-    weight = 2
 
 
 [taxonomies]
